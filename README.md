@@ -1,2 +1,2 @@
 # parshuram-frames
-Continuation stills used as Higgsfield API inputs for the Parshuram film. Frames only.
+Continuation stills (single frames only) used as image inputs for Higgsfield API generations of the Parshuram film. No videos, prompts or keys.
